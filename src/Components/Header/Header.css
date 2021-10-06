@@ -1,0 +1,8 @@
+.headerTitle {
+  font-size: 32px;
+  font-weight: lighter;
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+  margin: 20px 50px;
+}

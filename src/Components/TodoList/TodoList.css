@@ -1,0 +1,9 @@
+.taskList {
+  display: flex;
+  flex-flow: column;
+  margin-right: 150px;
+  margin-left: 50px;
+}
+.spinner {
+  align-self: center;
+}

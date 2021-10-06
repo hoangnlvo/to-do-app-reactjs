@@ -1,0 +1,13 @@
+.myFrm {
+  margin-left: 50px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.nameField {
+  width: 50%;
+  margin-bottom: 20px;
+}
+.addTaskButton {
+  width: 50px;
+}

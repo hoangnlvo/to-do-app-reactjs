@@ -1,0 +1,11 @@
+.myTask {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.taskInfo {
+  display: flex;
+}
+.taskName {
+  font-size: larger;
+}
