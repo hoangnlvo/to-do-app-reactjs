@@ -1,9 +1,9 @@
 import React from "react";
 import axios from "axios";
-import "./Task.css";
 import Checkbox from "@mui/material/Checkbox";
 import Button from "@mui/material/Button";
 import DeleteIcon from "@mui/icons-material/Delete";
+import "./Task.css";
 
 const Task = ({ taskID, taskName, taskIsDone, onClick }) => {
   const handleChange = async (e) => {
