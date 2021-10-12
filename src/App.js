@@ -1,7 +1,7 @@
 import React from "react";
+import { Switch, Route } from "react-router-dom";
 import AddTask from "./Components/AddTask/AddTask";
 import Header from "./Components/Header/Header";
-import { Switch, Route } from "react-router-dom";
 
 import TodoList from "./Components/TodoList/TodoList";
 
